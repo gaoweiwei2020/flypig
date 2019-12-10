@@ -152,4 +152,10 @@ public class ifelseTest {
         System.out.println("1--100能被7整除的数的和为" + sum);
     }
 
+
+    @Test
+    public int test() {
+        return 0;
+    }
+
 }
